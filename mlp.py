@@ -4,7 +4,7 @@
 import numpy as np
 import numpy.random as randy
 import matplotlib.pyplot as plt
-# import tensorflow as tf
+ import tensorflow as tf
 
 
 # make fake data -------------------
